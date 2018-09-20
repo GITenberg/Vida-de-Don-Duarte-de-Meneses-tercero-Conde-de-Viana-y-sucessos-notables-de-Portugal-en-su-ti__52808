@@ -1,0 +1,30 @@
+_repo: Vida-de-Don-Duarte-de-Meneses-tercero-Conde-de-Viana-y-sucessos-notables-de-Portugal-en-su-ti__52808
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vasconcelos, Agostinho Manuel de
+    aliases:
+    - De Vasconcelos, Agostinho Manuel
+    - Vasconcellos, Agostinho Manuel de
+    birthdate: 1583
+    deathdate: 1641
+    gutenberg_agent_id: '47052'
+    url: http://www.gutenberg.org/2009/agents/47052
+description: ''
+gutenberg_issued: '2016-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52808'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meneses, Duarte de, conde de Viana, 1414-1464'
+- !lcsh 'Portuguese -- Africa, North'
+- !lcc 'DP'
+- !lcsh 'Africa, North -- History -- 647-1517 -- Early works to 1800'
+- GITenberg
+title: Vida de Don Duarte de Meneses, tercero Conde de Viana, y sucessos notables
+  de Portugal en su tiempo
+url: http://www.gutenberg.org/ebooks/52808
